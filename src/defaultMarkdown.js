@@ -1,5 +1,4 @@
-export const defaultMarkdown = () => {
-  return `# Markdown Previewer!
+export const defaultMarkdown = `# Markdown Previewer!
 
 ## freeCodeCamp Challenge!
 
@@ -44,4 +43,3 @@ Not A blockquote
 ---
 
 ![Random Picture](https://source.unsplash.com/random)`;
-};
